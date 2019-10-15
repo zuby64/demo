@@ -1,7 +1,7 @@
 {
   "resturants": [
     {
-      " id": 1,
+      "id": 1,
       "address": "5th avenue newyork 68",
       "foodType": ["Apple juice ", "BB.q"],
       "ratings": 24,
@@ -11,7 +11,7 @@
       "paymentType": ["cash", "paypal"]
     },
     {
-      " id": 2,
+      "id": 2,
       "address": "Motorway road street #8",
       "foodType": ["Apple juice ", "BB.q"],
       "ratings": 24,
@@ -21,7 +21,7 @@
       "paymentType": ["cash", "paypal"]
     },
     {
-      " id": 3,
+      "id": 3,
       "address": "Mardan Road Charsadda",
       "foodType": ["Rice", "BB.q"],
       "ratings": 24,
@@ -31,7 +31,7 @@
       "paymentType": ["cash", "paypal"]
     },
     {
-      " id": 4,
+      "id": 4,
       "address": "Prang mian kali charsadda",
       "foodType": ["sweets", "BB.q"],
       "ratings": 24,

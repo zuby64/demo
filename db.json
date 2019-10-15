@@ -8,7 +8,8 @@
       "likes": 4,
       "deliveryTime": 30,
       "checkoutTime": "50",
-      "paymentType": ["cash", "paypal"]
+      "paymentType": ["cash", "paypal"],
+      "resturantHeadline":"Dominos Pizza"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "likes": 4,
       "deliveryTime": 30,
       "checkoutTime": "50",
-      "paymentType": ["cash", "paypal"]
+      "paymentType": ["cash", "paypal"],
+      "resturantHeadline":"Dominos Pizza"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "likes": 4,
       "deliveryTime": 30,
       "checkoutTime": "50",
-      "paymentType": ["cash", "paypal"]
+      "paymentType": ["cash", "paypal"],
+      "resturantHeadline":"Dominos Pizza"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "likes": 4,
       "deliveryTime": 30,
       "checkoutTime": "50",
-      "paymentType": ["cash", "paypal"]
+      "paymentType": ["cash", "paypal"],
+      "resturantHeadline":"Dominos Pizza"
     }
   ]
 }
